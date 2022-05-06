@@ -32,8 +32,6 @@ def split(pm):
 
 p=split(pd)
 
-
-random.seed(0)
 random.shuffle(p)
 
 spd = ''.join([str(elem) for elem in p])

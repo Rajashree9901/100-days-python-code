@@ -48,6 +48,7 @@ while ch:
       print(f"Sorry that's wrong, your final score is {s}")
       break
   clear()
+  print(logo)
 
     
   
